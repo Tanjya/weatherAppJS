@@ -1,0 +1,15 @@
+timestamp,city,temperature,description
+2026-03-16T12:42:05.095Z,London,11.67,few clouds
+2026-03-16T12:42:15.190Z,Salisbury,10.62,broken clouds
+2026-03-16T12:42:32.507Z,Manchester,9.78,light rain
+2026-03-16T12:42:52.197Z,Reading,11.32,overcast clouds
+2026-03-16T12:43:16.823Z,Bangladesh,23.39,overcast clouds
+2026-03-16T12:43:39.852Z,Canada,16.3,clear sky
+2026-03-16T12:49:46.099Z,Newbury,11.19,overcast clouds
+2026-03-16T12:54:41.900Z,Tokyo,10.54,broken clouds2026-03-16T15:07:57.349Z,Tokyo,9.9,broken clouds
+2026-03-16T15:30:02.150Z,Tokyo,10.29,broken clouds
+2026-03-16T15:31:26.260Z,Edinburgh,9.09,light rain
+2026-03-16T15:38:35.289Z,Salisbury,11.31,broken clouds
+2026-03-16T15:40:12.080Z,Salisbury,11.31,broken clouds
+2026-03-16T15:42:46.796Z,Salisbury,11.31,broken clouds
+2026-03-16T15:44:30.376Z,Salisbury,11.36,broken clouds

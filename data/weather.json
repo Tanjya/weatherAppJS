@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -1.7957,
+    "lat": 51.0693
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 11.36,
+    "feels_like": 10.54,
+    "temp_min": 10.81,
+    "temp_max": 11.56,
+    "pressure": 1016,
+    "humidity": 76,
+    "sea_level": 1016,
+    "grnd_level": 1004
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.66,
+    "deg": 230
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1773675644,
+  "sys": {
+    "type": 1,
+    "id": 1385,
+    "country": "GB",
+    "sunrise": 1773641964,
+    "sunset": 1773684746
+  },
+  "timezone": 0,
+  "id": 2638664,
+  "name": "Salisbury",
+  "cod": 200,
+  "_last_updated_utc": "2026-03-16T15:44:30.376Z"
+}
