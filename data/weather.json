@@ -1,45 +1,45 @@
 {
   "coord": {
-    "lon": -0.1257,
-    "lat": 51.5085
+    "lon": 120.7198,
+    "lat": 15.0646
   },
   "weather": [
     {
       "id": 804,
       "main": "Clouds",
       "description": "overcast clouds",
-      "icon": "04d"
+      "icon": "04n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 14.46,
-    "feels_like": 13.63,
-    "temp_min": 14.46,
-    "temp_max": 14.46,
-    "pressure": 1014,
-    "humidity": 64,
-    "sea_level": 1014,
-    "grnd_level": 1011
+    "temp": 25.89,
+    "feels_like": 26.62,
+    "temp_min": 25.89,
+    "temp_max": 25.89,
+    "pressure": 1015,
+    "humidity": 80,
+    "sea_level": 1015,
+    "grnd_level": 1009
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.45,
-    "deg": 195,
-    "gust": 8.62
+    "speed": 2.58,
+    "deg": 67,
+    "gust": 7.29
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1773756446,
+  "dt": 1773757589,
   "sys": {
-    "country": "GB",
-    "sunrise": 1773727832,
-    "sunset": 1773770841
+    "country": "PH",
+    "sunrise": 1773698631,
+    "sunset": 1773742048
   },
-  "timezone": 0,
-  "id": 2643743,
-  "name": "London",
+  "timezone": 28800,
+  "id": 1699805,
+  "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-03-17T14:16:10.351Z"
+  "_last_updated_utc": "2026-03-17T14:31:11.360Z"
 }
