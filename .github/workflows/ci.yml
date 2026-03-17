@@ -8,9 +8,9 @@ on:
 permissions:
   contents: write
 jobs:
-    test_and_fetch:
-      runs-on: ubuntu-latest
-      steps:
+  test_and_fetch:
+    runs-on: ubuntu-latest
+    steps:
        -  name: Checkout repo
           uses: actions/checkout@v4
        -  name: Use node.JS
