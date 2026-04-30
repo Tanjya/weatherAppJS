@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 801,
-      "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02n"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
     }
   ],
   "base": "stations",
   "main": {
     "temp": 26.84,
-    "feels_like": 29.22,
+    "feels_like": 29.3,
     "temp_min": 26.84,
     "temp_max": 26.84,
     "pressure": 1011,
-    "humidity": 78,
+    "humidity": 79,
     "sea_level": 1011,
-    "grnd_level": 1005
+    "grnd_level": 1006
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.1,
+    "speed": 1.38,
     "deg": 54,
-    "gust": 3.72
+    "gust": 1.84
   },
   "clouds": {
-    "all": 11
+    "all": 8
   },
-  "dt": 1777576467,
+  "dt": 1777582518,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -43,5 +43,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-04-30T19:17:10.471Z"
+  "_last_updated_utc": "2026-04-30T20:57:47.510Z"
 }
