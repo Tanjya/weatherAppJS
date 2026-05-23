@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 33.84,
-    "feels_like": 39.42,
-    "temp_min": 33.84,
-    "temp_max": 33.84,
-    "pressure": 1011,
-    "humidity": 54,
-    "sea_level": 1011,
-    "grnd_level": 1005
+    "temp": 36.84,
+    "feels_like": 43.42,
+    "temp_min": 36.84,
+    "temp_max": 36.84,
+    "pressure": 1008,
+    "humidity": 46,
+    "sea_level": 1008,
+    "grnd_level": 1002
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.79,
-    "deg": 117,
-    "gust": 2.15
+    "speed": 2.11,
+    "deg": 224,
+    "gust": 3.93
   },
   "clouds": {
-    "all": 7
+    "all": 26
   },
-  "dt": 1779504300,
+  "dt": 1779517777,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -43,5 +43,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-05-23T02:45:38.769Z"
+  "_last_updated_utc": "2026-05-23T06:32:01.691Z"
 }
