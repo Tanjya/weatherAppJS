@@ -17,21 +17,21 @@
     "feels_like": 34.3,
     "temp_min": 28.84,
     "temp_max": 28.84,
-    "pressure": 1011,
+    "pressure": 1010,
     "humidity": 80,
-    "sea_level": 1011,
+    "sea_level": 1010,
     "grnd_level": 1005
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.9,
-    "deg": 100,
-    "gust": 1.04
+    "speed": 0.84,
+    "deg": 92,
+    "gust": 1.08
   },
   "clouds": {
-    "all": 95
+    "all": 100
   },
-  "dt": 1779641863,
+  "dt": 1779650026,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -43,5 +43,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-05-24T16:57:43.716Z"
+  "_last_updated_utc": "2026-05-24T19:13:46.782Z"
 }
