@@ -8,30 +8,30 @@
       "id": 804,
       "main": "Clouds",
       "description": "overcast clouds",
-      "icon": "04n"
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 25.12,
-    "feels_like": 26.06,
-    "temp_min": 25.12,
-    "temp_max": 25.12,
-    "pressure": 1010,
-    "humidity": 91,
-    "sea_level": 1010,
-    "grnd_level": 1005
+    "temp": 25.83,
+    "feels_like": 26.79,
+    "temp_min": 25.83,
+    "temp_max": 25.83,
+    "pressure": 1011,
+    "humidity": 89,
+    "sea_level": 1011,
+    "grnd_level": 1006
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.54,
-    "deg": 322,
-    "gust": 2.03
+    "speed": 1.24,
+    "deg": 337,
+    "gust": 1.89
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1780694588,
+  "dt": 1780700749,
   "sys": {
     "country": "PH",
     "sunrise": 1780694782,
@@ -41,5 +41,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-06-05T21:23:08.497Z"
+  "_last_updated_utc": "2026-06-05T23:05:49.658Z"
 }
