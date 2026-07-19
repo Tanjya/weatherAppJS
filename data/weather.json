@@ -13,25 +13,25 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 26.9,
-    "feels_like": 29.97,
-    "temp_min": 26.9,
-    "temp_max": 26.9,
+    "temp": 26.72,
+    "feels_like": 29.78,
+    "temp_min": 26.72,
+    "temp_max": 26.72,
     "pressure": 1010,
-    "humidity": 85,
+    "humidity": 88,
     "sea_level": 1010,
     "grnd_level": 1004
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.25,
-    "deg": 252,
-    "gust": 1.19
+    "speed": 1.18,
+    "deg": 315,
+    "gust": 0.99
   },
   "clouds": {
-    "all": 9
+    "all": 1
   },
-  "dt": 1784480108,
+  "dt": 1784487700,
   "sys": {
     "country": "PH",
     "sunrise": 1784496969,
@@ -41,5 +41,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-07-19T16:55:08.720Z"
+  "_last_updated_utc": "2026-07-19T19:01:40.042Z"
 }
