@@ -24,14 +24,14 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.23,
-    "deg": 234,
-    "gust": 4.48
+    "speed": 2.5,
+    "deg": 240,
+    "gust": 6.47
   },
   "clouds": {
-    "all": 39
+    "all": 41
   },
-  "dt": 1787250736,
+  "dt": 1787257338,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -43,5 +43,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-08-20T18:33:55.293Z"
+  "_last_updated_utc": "2026-08-20T20:23:51.784Z"
 }
