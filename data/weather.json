@@ -8,33 +8,33 @@
       "id": 500,
       "main": "Rain",
       "description": "light rain",
-      "icon": "10n"
+      "icon": "10d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 26.84,
-    "feels_like": 30.38,
-    "temp_min": 26.84,
-    "temp_max": 26.84,
+    "temp": 25.84,
+    "feels_like": 26.88,
+    "temp_min": 25.84,
+    "temp_max": 25.84,
     "pressure": 1007,
-    "humidity": 91,
+    "humidity": 92,
     "sea_level": 1007,
-    "grnd_level": 1001
+    "grnd_level": 1002
   },
   "visibility": 10000,
   "wind": {
-    "speed": 4.31,
+    "speed": 4.6,
     "deg": 224,
-    "gust": 11.12
+    "gust": 11.34
   },
   "rain": {
-    "1h": 0.18
+    "1h": 0.26
   },
   "clouds": {
-    "all": 100
+    "all": 98
   },
-  "dt": 1788116387,
+  "dt": 1788128496,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -46,5 +46,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-08-30T19:01:17.107Z"
+  "_last_updated_utc": "2026-08-30T22:22:11.513Z"
 }
