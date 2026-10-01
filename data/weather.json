@@ -5,10 +5,10 @@
   },
   "weather": [
     {
-      "id": 501,
-      "main": "Rain",
-      "description": "moderate rain",
-      "icon": "10n"
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02d"
     }
   ],
   "base": "stations",
@@ -24,17 +24,14 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.28,
-    "deg": 12,
-    "gust": 1.33
-  },
-  "rain": {
-    "1h": 1.29
+    "speed": 0.92,
+    "deg": 8,
+    "gust": 0.86
   },
   "clouds": {
-    "all": 78
+    "all": 19
   },
-  "dt": 1790873508,
+  "dt": 1790893137,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -46,5 +43,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-10-01T16:51:48.111Z"
+  "_last_updated_utc": "2026-10-01T22:19:15.939Z"
 }
