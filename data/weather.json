@@ -8,30 +8,30 @@
       "id": 803,
       "main": "Clouds",
       "description": "broken clouds",
-      "icon": "04n"
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
     "temp": 26.84,
-    "feels_like": 29.74,
+    "feels_like": 29.56,
     "temp_min": 26.84,
     "temp_max": 26.84,
-    "pressure": 1012,
-    "humidity": 84,
-    "sea_level": 1012,
-    "grnd_level": 1006
+    "pressure": 1013,
+    "humidity": 82,
+    "sea_level": 1013,
+    "grnd_level": 1007
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.06,
-    "deg": 6,
-    "gust": 3.36
+    "speed": 2.3,
+    "deg": 355,
+    "gust": 3.67
   },
   "clouds": {
-    "all": 66
+    "all": 82
   },
-  "dt": 1792177907,
+  "dt": 1792189739,
   "sys": {
     "type": 1,
     "id": 8152,
@@ -43,5 +43,5 @@
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-10-16T19:16:12.935Z"
+  "_last_updated_utc": "2026-10-16T22:28:59.418Z"
 }
