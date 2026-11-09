@@ -8,40 +8,40 @@
       "id": 803,
       "main": "Clouds",
       "description": "broken clouds",
-      "icon": "04n"
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 26.84,
-    "feels_like": 29.3,
-    "temp_min": 26.84,
-    "temp_max": 26.84,
+    "temp": 25.84,
+    "feels_like": 26.46,
+    "temp_min": 25.84,
+    "temp_max": 25.84,
     "pressure": 1015,
-    "humidity": 79,
+    "humidity": 76,
     "sea_level": 1015,
-    "grnd_level": 1009
+    "grnd_level": 1010
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.2,
-    "deg": 24,
-    "gust": 3.71
+    "speed": 2.28,
+    "deg": 16,
+    "gust": 3.62
   },
   "clouds": {
-    "all": 66
+    "all": 61
   },
-  "dt": 1794236497,
+  "dt": 1794268550,
   "sys": {
     "type": 1,
     "id": 8152,
     "country": "PH",
-    "sunrise": 1794174954,
-    "sunset": 1794216358
+    "sunrise": 1794261380,
+    "sunset": 1794302744
   },
   "timezone": 28800,
   "id": 1699805,
   "name": "Mexico",
   "cod": 200,
-  "_last_updated_utc": "2026-11-09T15:05:55.012Z"
+  "_last_updated_utc": "2026-11-09T23:56:44.417Z"
 }
